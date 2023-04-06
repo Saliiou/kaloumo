@@ -1,6 +1,6 @@
 @font-face {
     font-family: Just;
-    src: url(../fonts/Jost-Regular.ttf);
+    src: url(./Jost-Regular.ttf);
 }
 :root{
     --primary:#EE1C47;
